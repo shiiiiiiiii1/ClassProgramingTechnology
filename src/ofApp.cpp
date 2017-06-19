@@ -4,7 +4,7 @@
 void ofApp::setup(){
   ofBackground(0, 0, 0);
   ofEnableAlphaBlending();
-  ofSetCircleResolution(64);  
+  ofSetCircleResolution(64);
 }
 
 //--------------------------------------------------------------
