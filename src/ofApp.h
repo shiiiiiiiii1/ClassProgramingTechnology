@@ -16,7 +16,9 @@ public:
   float speed_x[NUMBALL];
   float speed_y[NUMBALL];
   float radius[NUMBALL];
-  int red, green, blue;
+
+  int red, green, blue, alpha;
   float gravity;
   float friction;
+  float speed_x_random;
 };
